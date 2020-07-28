@@ -1,5 +1,5 @@
 # Web Scraping Fundamentals
-This repository discover the fundamental ideas about web scraping and offer some practices to learn the tools.
+This repository introduces the fundamental cencept of web scraping and different web-scraping packages in Python.
 
 ## Section 1: Web Scraping Basics
 1. Request and Parsing
