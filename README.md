@@ -22,5 +22,6 @@ This repository introduces the fundamental cencept of web scraping and different
 4. Linking API Calls
 
 ### Resources:
+[Selenium](https://selenium-python.readthedocs.io/)  
 [Quotes to Scrape](http://quotes.toscrape.com/)  
-[Scraping Club](https://scrapingclub.com/)
+[Scraping Club](https://scrapingclub.com/)  
