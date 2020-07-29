@@ -12,7 +12,7 @@ This repository introduces the fundamental cencept of web scraping and different
 1. Automating Web Browsing
 2. Basic Browser Interactions
 3. Handling Drag and Drop
-4. Selenum Wait Functions
+4. Selenum Implicit Wait Functions
 5. Selenum Explicit Wait Functions
 
 ## Section 3: Automating with APIs
