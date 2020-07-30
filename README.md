@@ -8,6 +8,10 @@ This repository introduces the fundamental cencept of web scraping and different
 4. Preparing for Paginated Scraping
 5. Scraping Paginated Content
 
+![web_scraping](images/Scraping_Club_2.png)
+
+![web_scraping](images/Scraping_Club_3.png)
+
 ## Section 2: Auotmate Web Browsing with Selenium
 1. Automating Web Browsing
 2. Basic Browser Interactions
@@ -15,11 +19,19 @@ This repository introduces the fundamental cencept of web scraping and different
 4. Selenum Implicit Wait Functions
 5. Selenum Explicit Wait Functions
 
+![web_scraping](images/SeleniumEasy1.png)
+
+![web_scraping](images/GoogleEarth_button.png)
+
 ## Section 3: Automating with APIs
 1. Create API Requests
 2. Parsing through JSON
 3. Using API Keys
 4. Linking API Calls
+
+![web_scraping](images/upcitemdb_request.png)
+
+![web_scraping](images/RapidAPI.png)
 
 ### Resources:  
 
