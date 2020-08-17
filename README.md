@@ -38,4 +38,7 @@ This repository introduces the fundamental cencepts of web scraping and practice
 [Selenium](https://selenium-python.readthedocs.io/)  |  [Quotes to Scrape](http://quotes.toscrape.com/)  |  [Scraping Club](https://scrapingclub.com/)  |  [ChromeDriver](https://chromedriver.chromium.org)  |  [GeckoDriver](https://github.com/mozilla/geckodriver)  |  [Rapid API](https://rapidapi.com/)
 <br>
 <br>
+
+Note: There is a challenge exercise and solution included in this repository.  We suggest beginners to play around with the tools and practice with some real-world examples.  The best way to learn a tool is to use it!
+
 Copyright © 2020 Norman Lo
